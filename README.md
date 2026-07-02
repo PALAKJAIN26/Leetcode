@@ -31,8 +31,17 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
+## Hash Table
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
