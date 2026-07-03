@@ -12,6 +12,7 @@
 | [0704-binary-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/PALAKJAIN26/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,8 +41,10 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
