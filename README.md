@@ -4,11 +4,13 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PALAKJAIN26/Leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0263-ugly-number) |
 ## Array
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/PALAKJAIN26/Leetcode/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/PALAKJAIN26/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -47,4 +49,12 @@
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PALAKJAIN26/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PALAKJAIN26/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
