@@ -4,21 +4,39 @@ class Solution {
             return 0;
         }
         
-        int count = 1; 
-        boolean[] isComposite = new boolean[n];
+        // Total number of odd candidates strictly greater than 1 and less than n
+        int oddCandidates = (n - 2) / 2;
         
-        for (int i = 3; i < n; i += 2) {
-            if (!isComposite[i]) {
-                count++;
+        // Each int has 32 bits. We divide the number of candidates by 32 
+        // (using >> 5) and add 1 to ensure we have enough space.
+        int[] isComposite = new int[(oddCandidates >> 5) + 1];
+        
+        int count = oddCandidates;
+        
+        for (int i = 0; i < oddCandidates; i++) {
+            int p = 2 * i + 3; 
+            
+            if ((long) p * p >= n) {
+                break;
+            }
+            
+            // Check if the i-th bit is 0 (meaning it's prime)
+            // i >> 5 finds the int bucket. (1 << (i & 31)) creates a mask for the exact bit.
+            if ((isComposite[i >> 5] & (1 << (i & 31))) == 0) {
                 
-                if ((long) i * i < n) {
-                    for (int j = i * i; j < n; j += 2 * i) {
-                        isComposite[j] = true;
+                int firstMultipleIndex = (p * p - 3) / 2;
+                
+                for (int j = firstMultipleIndex; j < oddCandidates; j += p) {
+                    // If the j-th bit is not already set to 1
+                    if ((isComposite[j >> 5] & (1 << (j & 31))) == 0) {
+                        // Set the j-th bit to 1 using bitwise OR
+                        isComposite[j >> 5] |= (1 << (j & 31));
+                        count--; 
                     }
                 }
             }
         }
         
-        return count;
+        return count + 1;
     }
 }
