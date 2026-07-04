@@ -1,63 +1,29 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 class Solution {
     public int countPrimes(int n) {
-        if (n <= 2) return 0;
-
-        int limit = (int) Math.sqrt(n);
-        List<Integer> primes = new ArrayList<>();
-        boolean[] isPrime = new boolean[limit + 1];
-        Arrays.fill(isPrime, true);
-
-        // Step 1: Find all primes up to sqrt(n) using a simple sieve
-        for (int p = 2; p * p <= limit; p++) {
-            if (isPrime[p]) {
-                for (int i = p * p; i <= limit; i += p) {
-                    isPrime[i] = false;
-                }
-            }
+        // A prime number is greater than 1. 
+        // If n is 0, 1, or 2, there are strictly 0 primes less than n.
+        if (n <= 2) {
+            return 0;
         }
-        for (int p = 2; p <= limit; p++) {
-            if (isPrime[p]) {
-                primes.add(p);
-            }
-        }
-
-        // Step 2: Segmented Sieve for the rest of the numbers
+        
+        // boolean arrays default to false in Java. 
+        // We track if a number is a composite (non-prime).
+        boolean[] isComposite = new boolean[n];
         int count = 0;
-        int segmentSize = limit; 
-        boolean[] segment = new boolean[segmentSize];
-
-        for (int low = 2; low < n; low += segmentSize) {
-            int high = Math.min(low + segmentSize - 1, n - 1);
-            Arrays.fill(segment, true);
-
-            // Mark composites in the current segment using base primes
-            for (int prime : primes) {
-                // Find the first multiple of 'prime' in the range [low, high]
-                int startIdx = (low / prime) * prime;
-                if (startIdx < low) {
-                    startIdx += prime;
-                }
-                if (startIdx == prime) {
-                    startIdx += prime; // Don't mark the prime itself
-                }
-
-                for (int j = startIdx; j <= high; j += prime) {
-                    segment[j - low] = false;
-                }
-            }
-
-            // Count primes in this segment
-            for (int i = low; i <= high; i++) {
-                if (segment[i - low]) {
-                    count++;
+        
+        for (int i = 2; i < n; i++) {
+            // If the number hasn't been crossed out, it's a prime
+            if (!isComposite[i]) {
+                count++;
+                
+                if ((long) i * i < n) {
+                    for (int j = i * i; j < n; j += i) {
+                        isComposite[j] = true;
+                    }
                 }
             }
         }
-
+        
         return count;
     }
 }
