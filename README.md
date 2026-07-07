@@ -6,6 +6,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/PALAKJAIN26/Leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0263-ugly-number) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PALAKJAIN26/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Array
 |  |
@@ -39,6 +40,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3206-alternating-groups-i](https://github.com/PALAKJAIN26/Leetcode/tree/master/3206-alternating-groups-i) |
 ## Enumeration
