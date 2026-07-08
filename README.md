@@ -18,6 +18,7 @@
 | [0704-binary-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/PALAKJAIN26/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PALAKJAIN26/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PALAKJAIN26/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3206-alternating-groups-i](https://github.com/PALAKJAIN26/Leetcode/tree/master/3206-alternating-groups-i) |
@@ -33,6 +34,7 @@
 | [0455-assign-cookies](https://github.com/PALAKJAIN26/Leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/PALAKJAIN26/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PALAKJAIN26/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/PALAKJAIN26/Leetcode/tree/master/0455-assign-cookies) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PALAKJAIN26/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +76,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKJAIN26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PALAKJAIN26/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
