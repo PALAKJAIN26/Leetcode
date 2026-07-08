@@ -1,15 +1,30 @@
+import java.util.Arrays;
+
 class Solution {
     public int findContentChildren(int[] g, int[] s) {
-        Arrays.sort(g);
-        Arrays.sort(s);
+       
+        Thread t1 = new Thread(() -> Arrays.sort(g));
+        Thread t2 = new Thread(() -> Arrays.sort(s));
         
-        int i = 0; 
-        int j = 0;
+        t1.start();
+        t2.start();
+        
+        try {
+            t1.join();
+            t2.join();
+        } catch (InterruptedException e) {
+            // Fallback in case of interruption
+            Arrays.sort(g);
+            Arrays.sort(s);
+        }
+        
+        // Two-pointer greedy pass
+        int i = 0, j = 0;
         while (i < g.length && j < s.length) {
             if (s[j] >= g[i]) {
-                i++;
+                i++; // Child satisfied
             }
-            j++; 
+            j++; // Move to next cookie
         }
         
         return i;
