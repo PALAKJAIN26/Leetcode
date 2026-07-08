@@ -13,7 +13,6 @@ class Solution {
             t1.join();
             t2.join();
         } catch (InterruptedException e) {
-            // Fallback in case of interruption
             Arrays.sort(g);
             Arrays.sort(s);
         }
