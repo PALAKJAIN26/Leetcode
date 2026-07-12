@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PALAKJAIN26/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKJAIN26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/PALAKJAIN26/Leetcode/tree/master/0204-count-primes) |
@@ -48,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PALAKJAIN26/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PALAKJAIN26/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
