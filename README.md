@@ -8,6 +8,7 @@
 | [0263-ugly-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0263-ugly-number) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PALAKJAIN26/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PALAKJAIN26/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PALAKJAIN26/Leetcode/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PALAKJAIN26/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
