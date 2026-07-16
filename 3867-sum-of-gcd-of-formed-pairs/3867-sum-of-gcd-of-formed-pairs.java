@@ -1,26 +1,26 @@
 class Solution {
     public long gcdSum(int[] nums) {
         int n = nums.length;
-        int[] prefixGcd = new int[n];
+        int[] prefix = new int[n];
         
-        int currentMax = 0;
+        int Max = 0;
         for (int i = 0; i < n; i++) {
-            currentMax = Math.max(currentMax, nums[i]);
-            prefixGcd[i] = gcd(nums[i], currentMax);
+            Max = Math.max(Max, nums[i]);
+            prefix[i] = gcd(nums[i], Max);
         }
-        Arrays.sort(prefixGcd);
+        Arrays.sort(prefix);
         
-        long totalGcdSum = 0;
+        long totalSum = 0;
         int left = 0;
         int right = n - 1;
         
         while (left < right) {
-            totalGcdSum += gcd(prefixGcd[left], prefixGcd[right]);
+            totalSum += gcd(prefix[left], prefix[right]);
             left++;
             right--;
         }
         
-        return totalGcdSum;
+        return totalSum;
     }
 
     private int gcd(int a, int b) {
