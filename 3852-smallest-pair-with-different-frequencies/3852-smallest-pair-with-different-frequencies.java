@@ -1,24 +1,3 @@
-/*class Solution {
-    public int[] minDistinctFreqPair(int[] nums) {
-        int n = nums.length;
-        
-        Arrays.sort(nums);
-
-        int[] integer = new int[n];
-        int x;
-        int y;
-        Map<Integer , Integer> = new HashMap<> ();
-
-        for(int i =0; i<n; i++){
-            int freq=0;
-            if(x<y){
-                freq[x] != freq[y];
-            }
-        }
-
-        
-    }
-}*/
 class Solution {
     public int[] minDistinctFreqPair(int[] nums) {
         int[] freq = new int[101];
