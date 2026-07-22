@@ -20,6 +20,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKJAIN26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/PALAKJAIN26/Leetcode/tree/master/0204-count-primes) |
+| [0303-range-sum-query-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -128,6 +129,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Trie
 |  |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
