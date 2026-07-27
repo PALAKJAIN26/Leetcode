@@ -34,6 +34,7 @@
 | [0905-sort-array-by-parity](https://github.com/PALAKJAIN26/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PALAKJAIN26/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/PALAKJAIN26/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1929-concatenation-of-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -62,6 +63,7 @@
 | [0888-fair-candy-swap](https://github.com/PALAKJAIN26/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/PALAKJAIN26/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/PALAKJAIN26/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PALAKJAIN26/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3536-maximum-product-of-two-digits](https://github.com/PALAKJAIN26/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
