@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PALAKJAIN26/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/PALAKJAIN26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PALAKJAIN26/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
