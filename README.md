@@ -35,6 +35,7 @@
 | [0724-find-pivot-index](https://github.com/PALAKJAIN26/Leetcode/tree/master/0724-find-pivot-index) |
 | [0888-fair-candy-swap](https://github.com/PALAKJAIN26/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/PALAKJAIN26/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0930-binary-subarrays-with-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PALAKJAIN26/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -106,6 +107,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/PALAKJAIN26/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0930-binary-subarrays-with-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/PALAKJAIN26/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -149,6 +152,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/PALAKJAIN26/Leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Trie
 |  |
 | ------- |
