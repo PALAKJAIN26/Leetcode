@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PALAKJAIN26/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/PALAKJAIN26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKJAIN26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/PALAKJAIN26/Leetcode/tree/master/0204-count-primes) |
@@ -104,6 +105,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/PALAKJAIN26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
