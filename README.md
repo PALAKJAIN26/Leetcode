@@ -8,6 +8,7 @@
 | [0263-ugly-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/PALAKJAIN26/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PALAKJAIN26/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/PALAKJAIN26/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PALAKJAIN26/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -33,6 +34,7 @@
 | [0704-binary-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/PALAKJAIN26/Leetcode/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/PALAKJAIN26/Leetcode/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/PALAKJAIN26/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/PALAKJAIN26/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKJAIN26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/PALAKJAIN26/Leetcode/tree/master/0877-stone-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -173,4 +176,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PALAKJAIN26/Leetcode/tree/master/0020-valid-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PALAKJAIN26/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PALAKJAIN26/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PALAKJAIN26/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
