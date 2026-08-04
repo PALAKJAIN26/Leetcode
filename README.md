@@ -49,6 +49,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PALAKJAIN26/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3206-alternating-groups-i](https://github.com/PALAKJAIN26/Leetcode/tree/master/3206-alternating-groups-i) |
+| [3731-find-missing-elements](https://github.com/PALAKJAIN26/Leetcode/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/PALAKJAIN26/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PALAKJAIN26/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -76,6 +77,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/PALAKJAIN26/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PALAKJAIN26/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3536-maximum-product-of-two-digits](https://github.com/PALAKJAIN26/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/PALAKJAIN26/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PALAKJAIN26/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -114,6 +116,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3731-find-missing-elements](https://github.com/PALAKJAIN26/Leetcode/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/PALAKJAIN26/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Sliding Window
 |  |
