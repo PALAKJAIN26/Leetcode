@@ -1,25 +1,21 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int maxSoFar = nums[0];
-        int minSoFar = nums[0];
-        int result = nums[0];
+        int n = nums.length;
+        int maxProd = Integer.MIN_VALUE;
+        int prefix = 1;
+        int suffix = 1;
 
-        for (int i = 1; i < nums.length; i++) {
-            int num = nums[i];
+        for (int i = 0; i < n; i++) {
+            // Reset running product if previous element was 0
+            if (prefix == 0) prefix = 1;
+            if (suffix == 0) suffix = 1;
 
-            // Multiplying by a negative number flips max and min
-            if (num < 0) {
-                int temp = maxSoFar;
-                maxSoFar = minSoFar;
-                minSoFar = temp;
-            }
+            prefix *= nums[i];
+            suffix *= nums[n - 1 - i];
 
-            maxSoFar = Math.max(num, maxSoFar * num);
-            minSoFar = Math.min(num, minSoFar * num);
-
-            result = Math.max(result, maxSoFar);
+            maxProd = Math.max(maxProd, Math.max(prefix, suffix));
         }
 
-        return result;
+        return maxProd;
     }
 }
