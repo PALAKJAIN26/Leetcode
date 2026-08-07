@@ -17,6 +17,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/PALAKJAIN26/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PALAKJAIN26/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PALAKJAIN26/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/PALAKJAIN26/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [3731-find-missing-elements](https://github.com/PALAKJAIN26/Leetcode/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/PALAKJAIN26/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PALAKJAIN26/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/PALAKJAIN26/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
