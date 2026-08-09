@@ -1,31 +1,31 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public int romanToInt(String s) {
-        Map<Character, Integer> romanMap = new HashMap<>();
-        romanMap.put('I', 1);
-        romanMap.put('V', 5);
-        romanMap.put('X', 10);
-        romanMap.put('L', 50);
-        romanMap.put('C', 100);
-        romanMap.put('D', 500);
-        romanMap.put('M', 1000);
-
         int total = 0;
-        int n = s.length();
+        int prevVal = 0;
 
-        for (int i = 0; i < n; i++) {
-            int currentVal = romanMap.get(s.charAt(i));
-            
-            // If current value is smaller than the next symbol's value, subtract it
-            if (i < n - 1 && currentVal < romanMap.get(s.charAt(i + 1))) {
-                total -= currentVal;
+        for (int i = s.length() - 1; i >= 0; i--) {
+            int currVal = getValue(s.charAt(i));
+            if (currVal < prevVal) {
+                total -= currVal;
             } else {
-                total += currentVal;
+                total += currVal;
             }
+            prevVal = currVal;
         }
 
         return total;
+    }
+
+    private int getValue(char ch) {
+        switch (ch) {
+            case 'I': return 1;
+            case 'V': return 5;
+            case 'X': return 10;
+            case 'L': return 50;
+            case 'C': return 100;
+            case 'D': return 500;
+            case 'M': return 1000;
+            default: return 0;
+        }
     }
 }
