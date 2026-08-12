@@ -109,6 +109,7 @@
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PALAKJAIN26/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PALAKJAIN26/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
 | ------- |
@@ -211,4 +213,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/PALAKJAIN26/Leetcode/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PALAKJAIN26/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
