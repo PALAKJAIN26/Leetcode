@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PALAKJAIN26/Leetcode/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/PALAKJAIN26/Leetcode/tree/master/0455-assign-cookies) |
@@ -104,6 +105,7 @@
 | [0013-roman-to-integer](https://github.com/PALAKJAIN26/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PALAKJAIN26/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PALAKJAIN26/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
@@ -217,4 +219,20 @@
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PALAKJAIN26/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
