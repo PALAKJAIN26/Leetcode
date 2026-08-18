@@ -58,6 +58,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PALAKJAIN26/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PALAKJAIN26/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3206-alternating-groups-i](https://github.com/PALAKJAIN26/Leetcode/tree/master/3206-alternating-groups-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/PALAKJAIN26/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/PALAKJAIN26/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/PALAKJAIN26/Leetcode/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/PALAKJAIN26/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -140,6 +141,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PALAKJAIN26/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PALAKJAIN26/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/PALAKJAIN26/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/PALAKJAIN26/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/PALAKJAIN26/Leetcode/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/PALAKJAIN26/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
