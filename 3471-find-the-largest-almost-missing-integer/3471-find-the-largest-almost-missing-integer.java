@@ -1,26 +1,26 @@
 class Solution {
     public int largestInteger(int[] nums, int k) {
         int n = nums.length;
-        Map<Integer, Integer> windowCount = new HashMap<>();
+        int[] windowCount = new int[51];
 
         for (int i = 0; i <= n - k; i++) {
-            Set<Integer> uniqueInWindow = new HashSet<>();
+            boolean[] seenInWindow = new boolean[51];
             for (int j = i; j < i + k; j++) {
-                uniqueInWindow.add(nums[j]);
+                seenInWindow[nums[j]] = true;
             }
-
-            for (int num : uniqueInWindow) {
-                windowCount.put(num, windowCount.getOrDefault(num, 0) + 1);
-            }
-        }
-
-        int maxVal = -1;
-        for (Map.Entry<Integer, Integer> entry : windowCount.entrySet()) {
-            if (entry.getValue() == 1) {
-                maxVal = Math.max(maxVal, entry.getKey());
+            for (int val = 0; val <= 50; val++) {
+                if (seenInWindow[val]) {
+                    windowCount[val]++;
+                }
             }
         }
 
-        return maxVal;
+        for (int val = 50; val >= 0; val--) {
+            if (windowCount[val] == 1) {
+                return val;
+            }
+        }
+
+        return -1;
     }
 }
