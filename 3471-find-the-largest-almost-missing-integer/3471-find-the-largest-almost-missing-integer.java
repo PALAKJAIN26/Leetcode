@@ -1,41 +1,33 @@
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
+
 class Solution {
     public int largestInteger(int[] nums, int k) {
         int n = nums.length;
+        Map<Integer, Integer> windowCount = new HashMap<>();
 
-        // Case 1: Entire array is a single window
-        if (k == n) {
-            int maxVal = -1;
-            for (int x : nums) {
-                maxVal = Math.max(maxVal, x);
+        // Slide window of size k across the array
+        for (int i = 0; i <= n - k; i++) {
+            Set<Integer> uniqueInWindow = new HashSet<>();
+            for (int j = i; j < i + k; j++) {
+                uniqueInWindow.add(nums[j]);
             }
-            return maxVal;
-        }
 
-        // Count occurrences of each number
-        int[] freq = new int[51];
-        for (int x : nums) {
-            freq[x]++;
-        }
-
-        // Case 2: Subarrays of size 1
-        if (k == 1) {
-            for (int val = 50; val >= 0; val--) {
-                if (freq[val] == 1) {
-                    return val;
-                }
+            for (int num : uniqueInWindow) {
+                windowCount.put(num, windowCount.getOrDefault(num, 0) + 1);
             }
-            return -1;
         }
 
-        // Case 3: 1 < k < n
-        int res = -1;
-        if (freq[nums[0]] == 1) {
-            res = Math.max(res, nums[0]);
-        }
-        if (freq[nums[n - 1]] == 1) {
-            res = Math.max(res, nums[n - 1]);
+        // Find the largest value present in exactly 1 window
+        int maxVal = -1;
+        for (Map.Entry<Integer, Integer> entry : windowCount.entrySet()) {
+            if (entry.getValue() == 1) {
+                maxVal = Math.max(maxVal, entry.getKey());
+            }
         }
 
-        return res;
+        return maxVal;
     }
 }
