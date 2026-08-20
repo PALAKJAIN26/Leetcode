@@ -4,15 +4,15 @@ class Solution {
         int q = nums2.length;
 
         int ans = 0;
-        int lo = 1;
-        int hi = Math.min(p, q);
-        while (lo <= hi) {
-            int mid = (lo + hi) / 2;
+        int low = 1;
+        int high = Math.min(p, q);
+        while (low <= high) {
+            int mid = (low + high) / 2;
             if (f(nums1, nums2, mid)) {
                 ans = mid;
-                lo = mid + 1;
+                low = mid + 1;
             } else {
-                hi = mid - 1;
+                high = mid - 1;
             }
         }
         return ans;
