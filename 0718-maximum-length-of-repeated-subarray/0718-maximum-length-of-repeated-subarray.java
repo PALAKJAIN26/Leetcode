@@ -1,24 +1,62 @@
 class Solution {
     public int findLength(int[] nums1, int[] nums2) {
-        int m = nums1.length;
-        int n = nums2.length;
-        int maxLen = 0;
+        int p = nums1.length;
+        int q = nums2.length;
 
-        // dp[j] stores the length of the longest common suffix of nums1[0..i-1] and nums2[0..j-1]
-        int[] dp = new int[n + 1];
-
-        for (int i = 1; i <= m; i++) {
-            // Iterate backwards to update dp array in-place without extra space
-            for (int j = n; j >= 1; j--) {
-                if (nums1[i - 1] == nums2[j - 1]) {
-                    dp[j] = dp[j - 1] + 1;
-                    maxLen = Math.max(maxLen, dp[j]);
-                } else {
-                    dp[j] = 0;
-                }
+        int ans = 0;
+        int lo = 1;
+        int hi = Math.min(p, q);
+        while (lo <= hi) {
+            int mid = (lo + hi) / 2;
+            if (f(nums1, nums2, mid)) {
+                ans = mid;
+                lo = mid + 1;
+            } else {
+                hi = mid - 1;
             }
         }
+        return ans;
+    }
 
-        return maxLen;
+    static long m = 1000000007;
+    static long base = 1331;
+
+    public static boolean f(int[] nums1, int[] nums2, int mid) {
+        if (mid == 0) {
+            return true;
+        }
+        int p = nums1.length;
+        int q = nums2.length;
+        long pow = 1;
+        for (int i = 0; i < mid - 1; i++) {
+            pow = (pow * base) % m;
+        }
+        
+        long Hash1 = 0;
+        for (int i = 0; i < mid; i++) {
+            Hash1 = (Hash1 * base + nums1[i]) % m;
+        }
+        
+        HashSet<Long> H1 = new HashSet<>();
+        H1.add(Hash1);
+        for (int i = mid; i < p; i++) {
+            Hash1 = (((((Hash1 - ((nums1[i - mid] * pow) % m) + m) % m) * base) % m) + nums1[i]) % m;
+            H1.add(Hash1);
+        }
+
+        long Hash2 = 0;
+        for (int i = 0; i < mid; i++) {
+            Hash2 = (Hash2 * base + nums2[i]) % m;
+        }
+
+        if (H1.contains(Hash2))
+            return true;
+
+        for (int j = mid; j < q; j++) {
+            Hash2 = (((((Hash2 - ((nums2[j - mid] * pow) % m) + m) % m) * base) % m) + nums2[j]) % m;
+            if (H1.contains(Hash2))
+                return true;
+        }
+        return false;
     }
 }
