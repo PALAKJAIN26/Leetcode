@@ -38,6 +38,7 @@
 | [0414-third-maximum-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/PALAKJAIN26/Leetcode/tree/master/0455-assign-cookies) |
+| [0525-contiguous-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PALAKJAIN26/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0704-binary-search) |
@@ -141,6 +142,7 @@
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/PALAKJAIN26/Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/PALAKJAIN26/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/PALAKJAIN26/Leetcode/tree/master/0724-find-pivot-index) |
