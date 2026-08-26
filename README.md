@@ -29,6 +29,7 @@
 | [0014-longest-common-prefix](https://github.com/PALAKJAIN26/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/PALAKJAIN26/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/PALAKJAIN26/Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/PALAKJAIN26/Leetcode/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKJAIN26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/PALAKJAIN26/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
@@ -242,6 +243,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/PALAKJAIN26/Leetcode/tree/master/0046-permutations) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PALAKJAIN26/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
 |  |
