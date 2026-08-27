@@ -30,6 +30,7 @@
 | [0031-next-permutation](https://github.com/PALAKJAIN26/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/PALAKJAIN26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/PALAKJAIN26/Leetcode/tree/master/0046-permutations) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKJAIN26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/PALAKJAIN26/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
@@ -72,6 +73,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/PALAKJAIN26/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0704-binary-search) |
