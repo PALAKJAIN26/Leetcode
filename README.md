@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PALAKJAIN26/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/PALAKJAIN26/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/PALAKJAIN26/Leetcode/tree/master/0031-next-permutation) |
@@ -138,6 +139,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/PALAKJAIN26/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PALAKJAIN26/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/PALAKJAIN26/Leetcode/tree/master/0041-first-missing-positive) |
