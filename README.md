@@ -71,6 +71,7 @@
 | [3852-smallest-pair-with-different-frequencies](https://github.com/PALAKJAIN26/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PALAKJAIN26/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/PALAKJAIN26/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/PALAKJAIN26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -273,4 +274,12 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PALAKJAIN26/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/PALAKJAIN26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/PALAKJAIN26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
