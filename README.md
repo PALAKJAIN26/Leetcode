@@ -39,6 +39,7 @@
 | [0204-count-primes](https://github.com/PALAKJAIN26/Leetcode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -230,6 +232,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -287,6 +290,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PALAKJAIN26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
 |  |
