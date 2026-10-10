@@ -84,6 +84,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/PALAKJAIN26/Leetcode/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/PALAKJAIN26/Leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/PALAKJAIN26/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0704-binary-search) |
@@ -310,4 +311,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/PALAKJAIN26/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
