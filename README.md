@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PALAKJAIN26/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/PALAKJAIN26/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/PALAKJAIN26/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/PALAKJAIN26/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -96,6 +97,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PALAKJAIN26/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/PALAKJAIN26/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/PALAKJAIN26/Leetcode/tree/master/0031-next-permutation) |
