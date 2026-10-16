@@ -32,6 +32,7 @@
 | [0027-remove-element](https://github.com/PALAKJAIN26/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/PALAKJAIN26/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/PALAKJAIN26/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/PALAKJAIN26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/PALAKJAIN26/Leetcode/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -158,6 +159,7 @@
 | [0001-two-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/PALAKJAIN26/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PALAKJAIN26/Leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/PALAKJAIN26/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/PALAKJAIN26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
@@ -302,6 +304,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PALAKJAIN26/Leetcode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PALAKJAIN26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
