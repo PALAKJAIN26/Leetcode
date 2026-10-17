@@ -36,6 +36,7 @@
 | [0041-first-missing-positive](https://github.com/PALAKJAIN26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/PALAKJAIN26/Leetcode/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKJAIN26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0137-single-number-ii) |
@@ -137,6 +138,7 @@
 | [0020-valid-parentheses](https://github.com/PALAKJAIN26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/PALAKJAIN26/Leetcode/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/PALAKJAIN26/Leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0079-word-search) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PALAKJAIN26/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
 |  |
@@ -306,6 +309,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/PALAKJAIN26/Leetcode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PALAKJAIN26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
@@ -324,4 +328,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/PALAKJAIN26/Leetcode/tree/master/0278-first-bad-version) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
