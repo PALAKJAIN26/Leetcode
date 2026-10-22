@@ -42,6 +42,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKJAIN26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PALAKJAIN26/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/PALAKJAIN26/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/PALAKJAIN26/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
@@ -144,6 +145,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/PALAKJAIN26/Leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
@@ -169,6 +171,7 @@
 | [0036-valid-sudoku](https://github.com/PALAKJAIN26/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/PALAKJAIN26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/PALAKJAIN26/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/PALAKJAIN26/Leetcode/tree/master/0409-longest-palindrome) |
@@ -215,6 +218,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKJAIN26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/PALAKJAIN26/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PALAKJAIN26/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/PALAKJAIN26/Leetcode/tree/master/0877-stone-game) |
@@ -244,6 +248,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PALAKJAIN26/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -343,4 +348,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PALAKJAIN26/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
