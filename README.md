@@ -67,6 +67,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PALAKJAIN26/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/PALAKJAIN26/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PALAKJAIN26/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/PALAKJAIN26/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -323,6 +324,7 @@
 | [0064-minimum-path-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/PALAKJAIN26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1254-number-of-closed-islands](https://github.com/PALAKJAIN26/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PALAKJAIN26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
 |  |
@@ -344,10 +346,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0079-word-search) |
+| [1254-number-of-closed-islands](https://github.com/PALAKJAIN26/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PALAKJAIN26/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/PALAKJAIN26/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Memoization
 |  |
 | ------- |
@@ -356,4 +360,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/PALAKJAIN26/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
