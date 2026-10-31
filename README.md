@@ -45,6 +45,7 @@
 | [0137-single-number-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/PALAKJAIN26/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PALAKJAIN26/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/PALAKJAIN26/Leetcode/tree/master/0204-count-primes) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PALAKJAIN26/Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/PALAKJAIN26/Leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
