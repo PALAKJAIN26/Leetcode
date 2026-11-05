@@ -6,7 +6,6 @@ class Solution {
         int suffix = 1;
 
         for (int i = 0; i < n; i++) {
-            // Reset running product if previous element was 0
             if (prefix == 0) prefix = 1;
             if (suffix == 0) suffix = 1;
 
