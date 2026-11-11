@@ -113,6 +113,7 @@
 | [0015-3sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/PALAKJAIN26/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PALAKJAIN26/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0414-third-maximum-number) |
@@ -156,6 +157,7 @@
 | [0079-word-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/PALAKJAIN26/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/PALAKJAIN26/Leetcode/tree/master/0409-longest-palindrome) |
@@ -183,6 +185,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/PALAKJAIN26/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/PALAKJAIN26/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PALAKJAIN26/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/PALAKJAIN26/Leetcode/tree/master/0409-longest-palindrome) |
