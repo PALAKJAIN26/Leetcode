@@ -132,6 +132,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PALAKJAIN26/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/PALAKJAIN26/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/PALAKJAIN26/Leetcode/tree/master/0027-remove-element) |
@@ -147,6 +148,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PALAKJAIN26/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/PALAKJAIN26/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PALAKJAIN26/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PALAKJAIN26/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -231,6 +233,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PALAKJAIN26/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/PALAKJAIN26/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKJAIN26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -380,4 +383,8 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/PALAKJAIN26/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/PALAKJAIN26/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
