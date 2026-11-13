@@ -160,6 +160,7 @@
 | [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/PALAKJAIN26/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/PALAKJAIN26/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/PALAKJAIN26/Leetcode/tree/master/0409-longest-palindrome) |
@@ -188,6 +189,7 @@
 | [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/PALAKJAIN26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PALAKJAIN26/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/PALAKJAIN26/Leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/PALAKJAIN26/Leetcode/tree/master/0409-longest-palindrome) |
