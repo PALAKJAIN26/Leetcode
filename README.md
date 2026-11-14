@@ -162,6 +162,7 @@
 | [0242-valid-anagram](https://github.com/PALAKJAIN26/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PALAKJAIN26/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/PALAKJAIN26/Leetcode/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/PALAKJAIN26/Leetcode/tree/master/0709-to-lower-case) |
@@ -191,6 +192,7 @@
 | [0242-valid-anagram](https://github.com/PALAKJAIN26/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PALAKJAIN26/Leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/PALAKJAIN26/Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -246,6 +248,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PALAKJAIN26/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/PALAKJAIN26/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/PALAKJAIN26/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -351,6 +354,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
