@@ -155,6 +155,7 @@
 | [0020-valid-parentheses](https://github.com/PALAKJAIN26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/PALAKJAIN26/Leetcode/tree/master/0038-count-and-say) |
+| [0065-valid-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/PALAKJAIN26/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/PALAKJAIN26/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
