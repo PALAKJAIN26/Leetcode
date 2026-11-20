@@ -6,6 +6,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/PALAKJAIN26/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PALAKJAIN26/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/PALAKJAIN26/Leetcode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/PALAKJAIN26/Leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/PALAKJAIN26/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/PALAKJAIN26/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PALAKJAIN26/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/PALAKJAIN26/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/PALAKJAIN26/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/PALAKJAIN26/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKJAIN26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -394,4 +396,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PALAKJAIN26/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PALAKJAIN26/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
