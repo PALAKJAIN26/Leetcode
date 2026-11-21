@@ -142,6 +142,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PALAKJAIN26/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/PALAKJAIN26/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/PALAKJAIN26/Leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/PALAKJAIN26/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PALAKJAIN26/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -166,6 +167,7 @@
 | [0344-reverse-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PALAKJAIN26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PALAKJAIN26/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/PALAKJAIN26/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/PALAKJAIN26/Leetcode/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/PALAKJAIN26/Leetcode/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKJAIN26/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -246,6 +248,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKJAIN26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/PALAKJAIN26/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/PALAKJAIN26/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/PALAKJAIN26/Leetcode/tree/master/0392-is-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PALAKJAIN26/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/PALAKJAIN26/Leetcode/tree/master/0877-stone-game) |
 ## Counting Sort
